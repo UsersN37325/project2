@@ -1,0 +1,17 @@
+.container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card {
+    width: 35%;
+    height: 300px;
+    padding: 20px;
+    box-shadow: 0 0 5px lightblue;
+    border-radius: 20px;
+}
+button {
+    width: 150px;
+}
